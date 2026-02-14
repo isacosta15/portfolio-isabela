@@ -72,7 +72,7 @@ const Header = () => {
             onClick={() => scrollToSection('home')}
             className="text-xl font-bold text-[#7A3E9D] hover:text-[#9B59B6] transition-colors"
           >
-            Isabela Nunes
+            Isabela Costa
           </button>
 
           {/* Desktop Navigation */}
