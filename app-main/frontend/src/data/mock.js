@@ -17,11 +17,11 @@ export const personalInfo = {
   email: "isabela.costa.dev@gmail.com",
   linkedin: "https://linkedin.com/in/isabela-nunes-dev",
   github: "https://github.com/isacosta15",
-  profileImage: "img/Perfil.jpg"
+  profileImage: fotoPerfil,
 };
 
 export const about = {
-  description: `Sou estudante do 1º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba.
+  description: `Sou estudante do 1º semestre da graduação Técnologa em Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba.
 Tenho grande interesse por desenvolvimento de software e inovação tecnológica, com experiência prática em Java, JavaScript, React, Node.js e SQL.
 
 Desenvolvi habilidades sólidas em trabalho em equipe, resolução de problemas, liderança e comunicação, participando de diversas competições e hackathons voltados à tecnologia e inovação.
