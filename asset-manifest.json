@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-isabela/static/css/main.5e884b06.css",
+    "main.js": "/portfolio-isabela/static/js/main.e621cf65.js",
+    "static/media/Eco.png": "/portfolio-isabela/static/media/Eco.65920c1e0a03005d69e7.png",
+    "static/media/Arduino.png": "/portfolio-isabela/static/media/Arduino.610b7613a660a0dfaa41.png",
+    "static/media/Alzheimer.png": "/portfolio-isabela/static/media/Alzheimer.3070baea271c92a7ce1f.png",
+    "static/media/sportse.png": "/portfolio-isabela/static/media/sportse.5ec1de643a1b3cda6415.png",
+    "static/media/senai.png": "/portfolio-isabela/static/media/senai.2cff180ddfd565290ff2.png",
+    "static/media/Yomu.jpg": "/portfolio-isabela/static/media/Yomu.a0454b8bd4be3eb73eee.jpg",
+    "static/media/italents.png": "/portfolio-isabela/static/media/italents.b3268fb8d42efb0da4cd.png",
+    "static/media/aura.png": "/portfolio-isabela/static/media/aura.0df6706a8c49eadd6e92.png",
+    "static/media/Perfil.jpg": "/portfolio-isabela/static/media/Perfil.dcc9bf1d8cf6b9cd2908.jpg",
+    "index.html": "/portfolio-isabela/index.html",
+    "main.5e884b06.css.map": "/portfolio-isabela/static/css/main.5e884b06.css.map",
+    "main.e621cf65.js.map": "/portfolio-isabela/static/js/main.e621cf65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e884b06.css",
+    "static/js/main.e621cf65.js"
+  ]
+}
