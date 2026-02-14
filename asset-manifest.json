@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-isabela/static/css/main.5e884b06.css",
-    "main.js": "/portfolio-isabela/static/js/main.e621cf65.js",
+    "main.js": "/portfolio-isabela/static/js/main.182d3e42.js",
     "static/media/Eco.png": "/portfolio-isabela/static/media/Eco.65920c1e0a03005d69e7.png",
     "static/media/Arduino.png": "/portfolio-isabela/static/media/Arduino.610b7613a660a0dfaa41.png",
     "static/media/Alzheimer.png": "/portfolio-isabela/static/media/Alzheimer.3070baea271c92a7ce1f.png",
@@ -13,10 +13,10 @@
     "static/media/Perfil.jpg": "/portfolio-isabela/static/media/Perfil.dcc9bf1d8cf6b9cd2908.jpg",
     "index.html": "/portfolio-isabela/index.html",
     "main.5e884b06.css.map": "/portfolio-isabela/static/css/main.5e884b06.css.map",
-    "main.e621cf65.js.map": "/portfolio-isabela/static/js/main.e621cf65.js.map"
+    "main.182d3e42.js.map": "/portfolio-isabela/static/js/main.182d3e42.js.map"
   },
   "entrypoints": [
     "static/css/main.5e884b06.css",
-    "static/js/main.e621cf65.js"
+    "static/js/main.182d3e42.js"
   ]
 }
