@@ -61,7 +61,7 @@ export const projects = [
   {
     id: 1,
     title: "Aura",
-    subtitle: "TCC do Curso de Desenvolvimento de Sistemas - ETEC de Carapicuíba, 2024",
+    subtitle: "TCC do Curso de Desenvolvimento de Sistemas - ETEC de Carapicuíba, 2025",
     description: "Plataforma digital de suporte emocional com assistente virtual (Aurora) que oferece acolhimento, orientação em saúde mental e promove acessibilidade e cuidado responsável.",
     image: aura,
     siteUrl: "https://aura-tcc-frontend-main.vercel.app/",
@@ -157,7 +157,7 @@ export const education = [
   {
     institution: "ETEC de Carapicuíba",
     course: "Técnico em Desenvolvimento de Sistemas",
-    conclusion: "Conclusão: Dezembro 2026"
+    conclusion: "Conclusão: Dezembro 2025"
   },
   {
     institution: "Fatec de Carapicuíba",
